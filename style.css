@@ -1,0 +1,54 @@
+<style> 
+body {font-size: 40px; }
+.sih{position:absolute;top: 20%; left:50%;transform:translatex(-50%)translatey(-50%);
+}
+.line{ display: inline-block;}
+.sah{text-decoration:none;color:#fff;font-family: source sans pro;font-weight:lighter;font-size:30px;padding: 0 20px;
+}
+.sah:hover{ content:"";display:block;height:2px;background: #fff;transition:width .5s;
+}
+div.img-size{
+  width:700px;
+  hight:300px;
+}
+.img-center{ 
+ text-align:center;
+}
+.souh-sah{
+  background:gray;
+}
+
+h1{
+  text-align:center;
+  color:green;
+}
+h1:hover{
+  background:white;
+}
+.shadow{
+  position:relative; 
+  top: 40px
+}
+.shadow:hover{
+  background:skyblue;
+  width:11%
+}
+li {
+  line-height: 3em;
+}
+  .para-1{
+    text-align: center;
+    position:relative;top:20px; }  
+  .barcelona-encants {color: red ;font-family: fantasy }
+  .barcelona-antoni{ color:red;font-family: fantasy} 
+  .barcelona-flea{color:red;font-family: fantasy}
+
+.barrio-name{background-color:skyblue;}
+footer{text-align:center; 
+  font-weight:bold;
+  padding:10px;
+  background:black;
+  color:white}
+
+
+</style>
